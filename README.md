@@ -17,7 +17,6 @@
   
 <!-- Giải 3 -->
   <p align="left">
-    <a href="LINK_CHUNG_HOAC_LINK_BAI_1" target="_blank">
       <img src="https://img.shields.io/badge/🥇_B20_Bounty-1ST_PLACE-orange?style=for-the-badge&logo=ethereum&logoColor=white" />
     </a>
    <br> <b>Bounties</b> (Aug - Dec 2025): <br>
