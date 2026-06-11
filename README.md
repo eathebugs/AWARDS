@@ -20,7 +20,7 @@
     <a href="LINK_CHUNG_HOAC_LINK_BAI_1" target="_blank">
       <img src="https://img.shields.io/badge/🥇_B20_Bounty-1ST_PLACE-orange?style=for-the-badge&logo=ethereum&logoColor=white" />
     </a>
-    <b>Recap Bounties (Aug - Dec 2025):</b> <br>
+     Bounties (Aug - Dec 2025):</b> <br>
     🔹 <a href="https://superteam.fun/earn/listing/recap-2-lessons-from-b20-blockchain-business-talent-program" target="_blank"><i>"Staking, Validators & Governance"</i></a> <br>
     🔹 <a href="https://superteam.fun/earn/listing/recap-3-and-4-lessons-from-b20-blockchain-business-talent-program" target="_blank"><i>"DeFi & Hype"</i></a> <br>
     🔹 <a href="https://superteam.fun/earn/listing/recap-lession-5-and-6-from-b20-blockchain-business-talent-program" target="_blank"><i>"Wallet & NFT"</i></a>
