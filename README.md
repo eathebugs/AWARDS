@@ -9,7 +9,7 @@
   <br><br>
   
   <!-- Giải 2 -->
-  <a href="LINK_CUA_BAN_TAI_DAY" target="_blank">
+  <a href="https://earn.superteam.fun/listing/mapping-vietnams-top-trading-groups-and-vip-traders" target="_blank">
     <img src="https://img.shields.io/badge/🥈_Dec_2025-2ND_PLACE-lightgrey?style=for-the-badge&logo=solana&logoColor=white" />
     <b>Solana Superteam Vietnam</b> Recap Bounty: <i>"Mapping Vietnam’s Top Trading"</i>
   </a>
